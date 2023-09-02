@@ -2,7 +2,7 @@
 This React Counter App is a simple demonstration of state management using Redux. It features a set of buttons that allow users to interact with the counter. The app utilizes the react-redux and redux libraries to manage its state.
 
 # Features
-__Increment__:Click the "Increment" button to increase the count by 1.
+__Increment__: Click the "Increment" button to increase the count by 1.
 
 **Decrement**: Click the "Decrement" button to decrease the count by 1.
 
