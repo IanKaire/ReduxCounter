@@ -2,13 +2,13 @@
 This React Counter App is a simple demonstration of state management using Redux. It features a set of buttons that allow users to interact with the counter. The app utilizes the react-redux and redux libraries to manage its state.
 
 # Features
-Increment:Click the "Increment" button to increase the count by 1.
+__Increment__:Click the "Increment" button to increase the count by 1.
 
-Decrement: Click the "Decrement" button to decrease the count by 1.
+**Decrement**: Click the "Decrement" button to decrease the count by 1.
 
-Increase by 10: The "Increase by 10" button adds 10 to the count.
+__Increase by 10__: The "Increase by 10" button adds 10 to the count.
 
-Toggle Counter: The "Toggle Counter" button hides or shows the counter, offering a clean user interface.
+**Toggle Counter**: The "Toggle Counter" button hides or shows the counter, offering a clean user interface.
 
 # Screenshots
 ![DefaultCounter](https://github.com/IanKaire/ReduxCounter/assets/114652346/3e7ab035-dc5e-4515-8660-df4ecb094fc3)
@@ -16,9 +16,9 @@ Toggle Counter: The "Toggle Counter" button hides or shows the counter, offering
 ![ToggleCounter](https://github.com/IanKaire/ReduxCounter/assets/114652346/6891e3f0-9317-4e7e-8d4c-b26005a846f4)
 
 # Key Dependencies
-react-redux: To connect React components with Redux.
+__react-redux__: To connect React components with Redux.
 
-redux: For implementing a Redux store and managing application state.
+**redux**: For implementing a Redux store and managing application state.
 
 # Setup
 1. Clone the repository to your local machine.
